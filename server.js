@@ -8,10 +8,10 @@ const main = function(scenexe2) {
     },
     port: 3000,
     testing: 1,
-    start: `load('./dim-ffa.js')`,
+    start: `load('./dim-testing.js')`,
     secret: {
-      p1: 'a',
-      p2: 'b'
+      p1: 'access-p1',
+      p2: 'access-p2'
     },
     standalone: 1
   }
