@@ -3,7 +3,7 @@
     mapSize: 18000,
     name: 'abyss',
     type: '4teams',
-    freeJoin: false,
+    freeJoin: true,
     displayName: 'Abyss Test',
     displayColor: 7,
     walls: [ [450, -700, 300, 150],       
