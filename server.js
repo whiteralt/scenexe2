@@ -8,7 +8,7 @@ const main = function(scenexe2) {
     },
     port: 3000,
     testing: 1,
-    start: `load('./dim-testing.js')`,
+    start: `load('./dim-abyss.js')`,
     secret: {
       p1: 'access-p1',
       p2: 'access-p2'
